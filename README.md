@@ -70,11 +70,21 @@ activities.
 * Positive and negative tests
 * Practice with Nitrate TCMS
 
-### 3x - Introduction to Linux
+### 2x - Introduction to Linux
 
 
-This is a practical refresher lesson for Linux. How to install it
-and how to use it. More information can be found at:
+This is a practical refresher lesson for Linux in Bulgarian.
+
+* [Basic commands in Linux](https://github.com/fosscourse/wiki/wiki/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B5%D0%BD_%D1%80%D0%B5%D0%B4_-_%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%2C_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%2C_%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8_%D0%BA%D0%BE%D0%BC%D0%B0%D0%B4%D0%B8#_____)
+* [Exercise Linux commands](https://github.com/fosscourse/wiki/wiki/%D0%A3%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_-_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D1%82%D0%B5_%D0%B2_%D0%9B%D0%B8%D0%BD%D1%83%D0%BA%D1%81#_____)
+
+Homework reading:
+* [Filesystems in Linux](https://github.com/fosscourse/wiki/wiki/%D0%A4%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B2_%D0%9B%D0%B8%D0%BD%D1%83%D0%BA%D1%81_-_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%B8_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8_%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)
+
+* [Linux warmup](https://github.com/HackBulgaria/Programming101-Java/tree/master/week02/1.Monday)
+* [Text editors - practical introduction](https://github.com/fosscourse/wiki/wiki/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D0%B8_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8_%D0%B8_%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82._%D0%A3%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F)
+
+Other information about Linux can be found at:
 https://github.com/fosscourse/wiki/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE_%D0%B2%D1%8A%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%9B%D0%B8%D0%BD%D1%83%D0%BA%D1%81
 
 
