@@ -36,7 +36,12 @@ http://koji.fedoraproject.org/mash/rawhide-2016mmyy/rawhide/x86_64/os/images/
 ## Fedora 24 Changes testing
 
 The complete list of proposed changes is lcoated at
-https://fedoraproject.org/wiki/Releases/24/ChangeSet
+* https://fedoraproject.org/wiki/Releases/24/ChangeSet
+* https://fedoraproject.org/wiki/Releases/25/ChangeSet
+
+Note: at the time of writing Rawhide is already Fedora 25 with different
+changes but we could still test in Fedora 24 features are well implemented.
+
 
 Quickly read through the list.
 
