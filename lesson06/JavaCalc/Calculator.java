@@ -5,4 +5,13 @@ public class Calculator {
       sum += Integer.valueOf(summand);
     return sum;
   }
+
+  public int add(Integer a, Integer b) {
+    return a+b;
+  }
+
+
+  public int sub(Integer a, Integer b) {
+    return a-b;
+  }
 }
